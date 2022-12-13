@@ -4,4 +4,4 @@
 Este projeto é um dicionário que lista as mulheres negras que 
 fizeram e ainda fazem história no Brasil e no Mundo.
 
-Feito com HTML, CSS e JavaScript
+Feito com HTML, CSS e JavaScript 
