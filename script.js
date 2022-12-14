@@ -1,4 +1,4 @@
-function carregaDicionario(){
+lfunction carregaDicionario(){
     var biografias = {
       
         bio01: { 
@@ -65,19 +65,9 @@ function carregaDicionario(){
         descricao: "Rosa Louise McCauley, mais conhecida por Rosa Parks, foi uma costureira negra norte-americana, símbolo do movimento dos direitos civis dos negros nos Estados Unidos. Ficou famosa, em 1º de dezembro de 1955, por ter-se recusado frontalmente a ceder o seu lugar no ônibus a um branco, tornando-se o estopim do movimento que foi denominado boicote aos ônibus de Montgomery e posteriormente viria a marcar o início da luta antissegregacionista.", 
         
         citacao: "Você nunca deve ter medo do que está fazendo quando está certo"
-    },
+    }
 
-    bio07: { 
-        
-      nome: "Rosa Parks", 
-
-      imagem: "https://i.postimg.cc/K1q2Zw74/rosa-parks.png",
-      
-      descricao: "Rosa Louise McCauley, mais conhecida por Rosa Parks, foi uma costureira negra norte-americana, símbolo do movimento dos direitos civis dos negros nos Estados Unidos. Ficou famosa, em 1º de dezembro de 1955, por ter-se recusado frontalmente a ceder o seu lugar no ônibus a um branco, tornando-se o estopim do movimento que foi denominado boicote aos ônibus de Montgomery e posteriormente viria a marcar o início da luta antissegregacionista.", 
-      
-      citacao: "Você nunca deve ter medo do que está fazendo quando está certo"
-  },
-        
+          
     };
 
     var content = document.getElementById("content");
