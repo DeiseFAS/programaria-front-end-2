@@ -1,4 +1,4 @@
-lfunction carregaDicionario(){
+function carregaDicionario(){
     var biografias = {
       
         bio01: { 
