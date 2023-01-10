@@ -1,4 +1,5 @@
-<h1 align="center"> 🎓 Projeto de certificação - DICIONÁRIO DE MULHERES NEGRAS</h1>
+<h1 align="center"> DICIONÁRIO DE MULHERES NEGRAS<br>
+🎓 Projeto de certificação </h1>
 <p align="center">Projeto final, página responsiva feita durante o curso EuProgramo Front End II da Programaria<p/>
 
 
@@ -48,7 +49,7 @@ Link para a página [Dicionário de Mulheres Negras](https://deisefas.github.io/
 
 # Conclusão e Agradecimentos
 
-Projeto final, página responsiva feita durante o curso do Projeto EuProgramo - Front End II da **Programaria
+Projeto final, página responsiva feita durante o curso do Projeto EuProgramo - Front End II da Programaria
 
 Mais uma vez pude participar como Bolsista. Então venho compartilhar minha gratidão por mais essa oportunidade de aprendizado. 
 
