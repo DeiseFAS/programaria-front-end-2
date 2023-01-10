@@ -8,8 +8,11 @@
 * [Introdução](#introdução)
 * [Especificações](#especificações)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Prévia e Link para acesso da página](#prévia-e-link-para-acesso-da-página)
 * [Conclusão e Agradecimentos](#conclusão-e-agradecimentos)
 
+
+![imagem do site](https://user-images.githubusercontent.com/71991444/211575828-bdcde343-7748-434e-a2ee-c41d4c9a6be1.png)
 
 
 # Resumo
@@ -32,6 +35,16 @@ A proposta do projeto final é apresentar um pequeno dicionário que lista as mu
 - HTML, 
 - CSS e 
 - JavaScript 
+
+
+# Prévia e Link para acesso da página
+
+
+
+https://user-images.githubusercontent.com/71991444/211581170-0c75e462-c6b3-4864-8873-ff94a5c3daa9.mp4
+
+
+Link para a página https://deisefas.github.io/Programaria/
 
 # Conclusão e Agradecimentos
 
